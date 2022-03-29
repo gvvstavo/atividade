@@ -1,0 +1,41 @@
+table { 
+    border-spacing: 2px; 
+    font-family: Arial; 
+    font-size: 12px; 
+}
+#titulo1 { 
+    color:white; 
+    background-color: #0D5188;
+    padding: 2px; 
+}
+#titulo2 { 
+    color: black; 
+    background-color: #66C5E3;
+    font-weight: bold;
+    padding: 2px; 
+}
+#titulo3 { 
+    color: black; 
+    background-color: #66C5E3;
+    text-align: center;
+    font-weight: bold;
+    padding: 2px; 
+}
+#posicao { 
+    width: 10%; 
+    background-color: silver;
+    text-align: center;
+    padding: 2px;
+}
+#cidade { 
+    color: #0D5188; 
+    background-color: #C7E7F3;
+    padding: 2px;
+}
+#populacao { 
+    background-color: #C7E7F3;
+    color: black;
+    width: 15%; 
+    text-align:center;
+    padding: 2px; 
+}
